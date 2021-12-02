@@ -1,9 +1,13 @@
 # TeamProfileTracker
 Node.js command-line application that takes in information about employees on a software engineering team
 
-##GRADERS PLEASE READ
+## GRADERS PLEASE READ
 The video shows that the information from the input command line is recorded succesfully and the markup does get generated, HOWEVER the issue I
 Had was stringify the array therefore the information shown on the would be html is (Object, object). 
+
+## VIDEO LINK
+Some reason this 1 minute video is 10mb over the limid to upload, here is a link to the video, you may have to download I apologive.
+https://drive.google.com/file/d/1lLhA9suBkMB2Ff_lo95AJ5C12gyS6cq1/view?usp=sharing
 
 
 ## User Story
